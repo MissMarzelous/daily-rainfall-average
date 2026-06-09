@@ -54,10 +54,12 @@ THE AVERAGE RAINFALL AMOUNT =   2.12 INCHES
 ## Screenshots
 
 ### Basic Version
-![Program Output](output.png)
+![Program Output](output_basic.png)
+![Program Output](output_basic_text.png)
 
 ### Validation Version
 ![Validation Version Output](output_validation.png)
+![Validation Version Output](output_validation_text.png)
 ---
 
 ## Technologies Used
@@ -100,8 +102,12 @@ THE AVERAGE RAINFALL AMOUNT =   2.12 INCHES
 daily-rainfall-average/
 ├── daily_rainfall_average_basic.py
 ├── daily_rainfall_average_with_validation.py
-├── output.png
+├── output_basic.png
+├── output_basic_text.png
 ├── output_validation.png
+├── output_validation_text.png
+├── rainfall-basic.txt
+├── rainfall-validation.txt
 ├── README.md
 ├── LICENSE
 └── .gitignore
